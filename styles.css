@@ -3,11 +3,12 @@
 .holder{
 	width:100% vw ;
 	height:100% vw;
-	display:flex;
-	justify-content:center;
+	
 }
 .holder div{
 	width:100px vw;
 	height:100px vw;
 	background:red;
+	display:flex;
+	justify-content:center;
 }
