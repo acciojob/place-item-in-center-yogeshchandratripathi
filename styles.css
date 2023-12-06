@@ -3,6 +3,9 @@
 .holder{
 	width:100px vw;
 	height:100px vw;
+	display:flex;
+	justify-content:center;
+	align-items:centre;
 }
 .item-1{
 	display:flex;
