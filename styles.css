@@ -1,19 +1,14 @@
 
 /* Your CSS Code here. */
 .holder{
-	width:100% vw;
-	height:100% vw;
+	width:100%vw;
+	height:100%vw;
+}
+.item-1{
 	display:flex;
 	justify-content:center;
 	align-items:centre;
-}
-.item{
-	
-}
-.holder div{
-	
 	width:100px;
 	height:100px;
 	background:red;
-	text-align:center;
 }
